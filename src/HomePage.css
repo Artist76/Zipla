@@ -1,0 +1,47 @@
+.homepage {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .header {
+    background-color: #f4f4f4;
+    padding: 50px 20px;
+  }
+  
+  .features {
+    padding: 50px 20px;
+  }
+  
+  .feature-cards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .card {
+    width: 30%;
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .get-started {
+    background-color: #f4f4f4;
+    padding: 50px 20px;
+  }
+  
+  button {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }
+  
